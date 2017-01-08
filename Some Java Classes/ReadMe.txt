@@ -1,0 +1,1 @@
+Couple of java classes that extend each other for functionality

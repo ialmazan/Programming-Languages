@@ -1,0 +1,26 @@
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\bin\Debug\Dice Rolling.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\bin\Debug\Dice Rolling.pdb
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\Dice_Rolling.Form1.resources
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\Dice_Rolling.Properties.Resources.resources
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\Dice Rolling.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Dice Rolling\obj\x86\Debug\Dice Rolling.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.pdb
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\bin\Debug\Dice Rolling.exe
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\bin\Debug\Dice Rolling.pdb
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice_Rolling.Form1.resources
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice_Rolling.Properties.Resources.resources
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan Almazan\Documents\Visual Studio 2010\Projects\Dice Rolling\Dice Rolling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.exe
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.pdb
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\bin\Debug\Dice Rolling.exe
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\bin\Debug\Dice Rolling.pdb
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.csprojResolveAssemblyReference.cache
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice_Rolling.Form1.resources
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice_Rolling.Properties.Resources.resources
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Dice Rolling\Dice Rolling\obj\x86\Debug\Dice Rolling.csproj.GenerateResource.Cache

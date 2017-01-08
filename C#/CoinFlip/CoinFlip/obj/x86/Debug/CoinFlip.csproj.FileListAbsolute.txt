@@ -1,0 +1,10 @@
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\CoinFlip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\CoinFlip\obj\x86\Debug\CoinFlip.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\CoinFlip\obj\x86\Debug\CoinFlip.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\CoinFlip\CoinFlip\obj\x86\Debug\CoinFlip.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\CoinFlip\CoinFlip\obj\x86\Debug\CoinFlip.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\CoinFlip\CoinFlip\obj\x86\Debug\ResolveAssemblyReference.cache

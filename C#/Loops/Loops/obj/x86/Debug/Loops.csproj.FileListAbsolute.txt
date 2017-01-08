@@ -1,0 +1,10 @@
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Loops\bin\Debug\Loops.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Loops\bin\Debug\Loops.pdb
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Loops\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Loops\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Loops\Loops\obj\x86\Debug\ResolveAssemblyReference.cache

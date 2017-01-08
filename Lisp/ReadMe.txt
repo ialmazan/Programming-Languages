@@ -1,0 +1,1 @@
+Some exercises in Lisp to learn about functional programming.

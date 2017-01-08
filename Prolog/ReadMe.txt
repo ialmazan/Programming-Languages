@@ -1,0 +1,1 @@
+Some exersices in Prolog to learn about logic programming languages.

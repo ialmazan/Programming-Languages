@@ -1,0 +1,26 @@
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\SuperJailBot\Desktop\move\PRojects\c++\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache

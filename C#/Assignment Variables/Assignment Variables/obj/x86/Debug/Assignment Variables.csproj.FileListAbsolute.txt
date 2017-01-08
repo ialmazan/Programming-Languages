@@ -1,0 +1,10 @@
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Assignment Variables\bin\Debug\Assignment Variables.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Assignment Variables\bin\Debug\Assignment Variables.pdb
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Assignment Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Assignment Variables\obj\x86\Debug\Assignment Variables.exe
+C:\Users\Ivan Almazan\AppData\Local\Temporary Projects\Assignment Variables\obj\x86\Debug\Assignment Variables.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Assignment Variables\Assignment Variables\obj\x86\Debug\Assignment Variables.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Assignment Variables\Assignment Variables\obj\x86\Debug\Assignment Variables.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Assignment Variables\Assignment Variables\bin\Debug\Assignment Variables.exe
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Assignment Variables\Assignment Variables\bin\Debug\Assignment Variables.pdb
+C:\Users\Ivan Almazan\documents\visual studio 2010\Projects\Assignment Variables\Assignment Variables\obj\x86\Debug\ResolveAssemblyReference.cache
